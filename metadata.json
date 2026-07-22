@@ -1,0 +1,6 @@
+{
+  "name": "AgentPulse - Multi-Agent Social & Marketing Platform",
+  "description": "Autonomous multi-agent marketing engine with flowchart orchestrator, multi-project workspace, dynamic API keys, and RAG memory base.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
